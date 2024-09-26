@@ -1,0 +1,18 @@
+#contenedor{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#contenedor > div{
+    width: 50%;
+}
+footer{
+    text-align: center;
+    margin-top: 1em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+    font-size: 1.8rem;
+    background-color: black;
+    color: cyan;
+}
